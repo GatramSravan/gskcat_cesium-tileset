@@ -1,0 +1,39 @@
+{
+    "asset": {
+        "version": "1.0"
+    },
+    "extensionsRequired": [
+        "3DTILES_content_gltf"
+    ],
+    "extensionsUsed": [
+        "3DTILES_content_gltf"
+    ],
+    "geometricError": 10000,
+    "root": {
+        "boundingVolume": {
+            "region": [
+                1.6880623312292125,
+                1.2227574321923518,
+                1.688302715158427,
+                1.22284252485967,
+                170.1853,
+                226
+            ]
+        },
+        "content": {
+            "boundingVolume": {
+                "region": [
+                    1.6880623312292125,
+                    1.2227574321923518,
+                    1.688302715158427,
+                    1.22284252485967,
+                    170.1853,
+                    226
+                ]
+            },
+            "uri": "./V3.glb"
+        },
+        "geometricError": 10000,
+        "refine": "REPLACE"
+    }
+}
