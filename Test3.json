@@ -31,7 +31,7 @@
                     226
                 ]
             },
-            "uri": "./V3.glb"
+            "uri": "V3.glb"
         },
         "geometricError": 10000,
         "refine": "REPLACE"
